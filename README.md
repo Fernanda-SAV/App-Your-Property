@@ -35,4 +35,4 @@ O **App Your Property** é um aplicativo inovador projetado para ajudar usuário
 
 - **Experiência do Usuário Aprimorada**: A interface intuitiva e as visualizações interativas garantem que até mesmo os usuários sem experiência técnica possam navegar facilmente e obter insights valiosos.
 
-O **Análise de Imóveis** é a ferramenta ideal para quem deseja compreender o mercado imobiliário de maneira aprofundada, oferecendo todas as informações necessárias para realizar transações imobiliárias com confiança e eficácia.
+O **App Your Property** é a ferramenta ideal para quem deseja compreender o mercado imobiliário de maneira aprofundada, oferecendo todas as informações necessárias para realizar transações imobiliárias com confiança e eficácia.
